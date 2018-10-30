@@ -1,3 +1,3 @@
-# Tuesday
+# Freak Out
 tuesday
 wednesday
