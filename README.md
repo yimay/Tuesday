@@ -1,3 +1,3 @@
 # Tuesday
 tuesday
-Wednesday
+wednesday
